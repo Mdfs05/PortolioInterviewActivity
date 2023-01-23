@@ -3,3 +3,5 @@ My (Marlon Schellhorn's) portfolio containing a collection of 10 modules I have 
 
 Here is the link to my Portfolio:
 https://mdfs05.github.io/PortolioInterviewActivity-MarlonSchellhorn/
+
+**Note that if you here music in the portfolio, it is coming from the Hackathon website embedded into the portfolio and you can mute the website.**
